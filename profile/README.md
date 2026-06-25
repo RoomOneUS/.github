@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/logo.png" alt="RoomOne Ventures" width="500"/>
+<img src="./logo.png" alt="RoomOne Ventures" width="500"/>
 
 # RoomOne Ventures
 
